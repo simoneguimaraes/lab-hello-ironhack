@@ -12,6 +12,11 @@ We just learned the basics about creating a **Hello World** app in React, so we 
 
 - Fork this repo
 - Clone this repo
+- Install the dependencies (Make sure you're in the correct directory in your terminal, you have to be in the same folder than the `package.json` file):
+
+  ```
+  npm install
+  ```
 
 ## Submission
 
